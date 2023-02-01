@@ -1,0 +1,23 @@
+[
+  {
+    "PersoneName": "Albert Einstein",
+    "EpisodeName": "Auto Erotic Assimilation",
+    "CheckPersoneResp": {
+      "WasInEpisode": false
+    }
+  },
+  {
+    "PersoneName": "Albert Einstein",
+    "EpisodeName": "A Rickle in Time",
+    "CheckPersoneResp": {
+      "WasInEpisode": true
+    }
+  },
+  {
+    "PersoneName": "Summer Smith",
+    "EpisodeName": "A Rickle in Time",
+    "CheckPersoneResp": {
+      "WasInEpisode": true
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "PersoneName": "Albert Einstein",
+    "PersoneResp": {
+      "Name": "Albert Einstein",
+      "Status": "Dead",
+      "Species": "Human",
+      "Type": "",
+      "Gender": "Male",
+      "Origin": {
+        "Name": "Earth (C-137)",
+        "Type": "Planet",
+        "Demension": "Dimension C-137"
+      }
+    }
+  },
+  {
+    "PersoneName": "Summer Smith",
+    "PersoneResp": {
+      "Name": "Summer Smith",
+      "Status": "Alive",
+      "Species": "Human",
+      "Type": "",
+      "Gender": "Female",
+      "Origin": {
+        "Name": "Earth (Replacement Dimension)",
+        "Type": "Planet",
+        "Demension": "Replacement Dimension"
+      }
+    }
+  },
+  {
+    "PersoneName": "Morty Smith",
+    "PersoneResp": {
+      "Name": "Morty Smith",
+      "Status": "Alive",
+      "Species": "Human",
+      "Type": "",
+      "Gender": "Male",
+      "Origin": {
+        "Name": "unknown",
+        "Type": "",
+        "Demension": ""
+      }
+    }
+  }
+]
